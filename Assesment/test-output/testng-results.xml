@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-25T21:58:04 IST" name="Suite" finished-at="2021-11-25T22:00:04 IST" duration-ms="120000">
+    <groups>
+    </groups>
+    <test started-at="2021-11-25T21:58:04 IST" name="Test" finished-at="2021-11-25T22:00:04 IST" duration-ms="120000">
+      <class name="Comp.Assesment.TestData">
+        <test-method signature="Hover()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:58:04 IST" name="Hover" finished-at="2021-11-25T21:58:20 IST" duration-ms="15474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hover -->
+        <test-method signature="WishList()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:58:24 IST" name="WishList" finished-at="2021-11-25T21:58:35 IST" duration-ms="10377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WishList -->
+        <test-method signature="addGift()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:58:39 IST" name="addGift" finished-at="2021-11-25T21:58:47 IST" duration-ms="7864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGift -->
+        <test-method signature="basepageNavigation(java.lang.String,java.lang.String)[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:58:52 IST" name="basepageNavigation" data-provider="loginData" finished-at="2021-11-25T21:59:03 IST" duration-ms="10605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sanjukta@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basepageNavigation -->
+        <test-method signature="checkNavigation()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:03 IST" name="checkNavigation" finished-at="2021-11-25T21:59:09 IST" duration-ms="5583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNavigation -->
+        <test-method signature="contact()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:09 IST" name="contact" finished-at="2021-11-25T21:59:20 IST" duration-ms="10524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+        <test-method signature="createAccount()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:20 IST" name="createAccount" finished-at="2021-11-25T21:59:33 IST" duration-ms="12518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="search()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:33 IST" name="search" finished-at="2021-11-25T21:59:44 IST" duration-ms="11282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="sortBy()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:45 IST" name="sortBy" finished-at="2021-11-25T21:59:57 IST" duration-ms="12936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortBy -->
+        <test-method signature="validateTitle()[pri:0, instance:Comp.Assesment.TestData@65a4798f]" started-at="2021-11-25T21:59:58 IST" name="validateTitle" finished-at="2021-11-25T22:00:04 IST" duration-ms="5868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+      </class> <!-- Comp.Assesment.TestData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
